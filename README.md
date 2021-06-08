@@ -1,4 +1,11 @@
-### Hi there 👋
+### Desarrollador web Frontend y técnico informático.
+
+Hola, me llamo Carlos Fraile y aquí verás el desarrollo de software que hago en mi trabajo diario.
+Actualmente estoy buscando mi primer empleo en el sector, tras varios año trabajando como técnico en microinformática.
+Deseando poder aportar, evolucionar y por que no, que otros se suban al carro.
+
+Mas detalles sobre mi en mi portfolio : [https://www.cmfg.dev]
+
 
 <!--
 **NakoWhiteDevity/NakoWhiteDevity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
