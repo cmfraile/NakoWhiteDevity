@@ -6,7 +6,7 @@ Deseando poder aportar, evolucionar y hacer un poco mas grande al gremio.
 
 Mas detalles sobre mi en mi <a href="https://cmfg.dev">PORTFOLIO</a>
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 
 
 
