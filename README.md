@@ -6,15 +6,7 @@ Deseando poder aportar, evolucionar y hacer un poco mas grande al gremio.
 
 Mas detalles sobre mi en mi <a href="https://cmfg.dev">PORTFOLIO</a>
 
-[![Kotlin](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-
-
-
-
-<!--
-**NakoWhiteDevity/NakoWhiteDevity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+_ _ _ _ _
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
