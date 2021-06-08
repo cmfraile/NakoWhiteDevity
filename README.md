@@ -6,6 +6,10 @@ Deseando poder aportar, evolucionar y hacer un poco mas grande al gremio.
 
 Mas detalles sobre mi en mi <a href="https://cmfg.dev">PORTFOLIO</a>
 
+[![Android]
+
+
+
 
 <!--
 **NakoWhiteDevity/NakoWhiteDevity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
