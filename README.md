@@ -10,3 +10,6 @@ _ _ _ _ _
 
 - 🔭 Estoy trabajando actualmente en una aplicación web, la cual dejo su <a href="https://github.com/NakoWhiteDevity/MahApps">REPOSITORIO</a> aqui.
 - 🌱 Actualmente me encuentro mejorando mis habilidades de Javascript y desarrollo web Frontend.
+
+
+<!-- https://shields.io/ -->
