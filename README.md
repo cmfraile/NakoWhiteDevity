@@ -4,7 +4,7 @@ Hola, me llamo Carlos Fraile y aquí verás el desarrollo de software que hago e
 Actualmente estoy buscando mi primer empleo en el sector, tras varios año trabajando como técnico en microinformática.
 Deseando poder aportar, evolucionar y por que no, que otros se suban al carro.
 
-Mas detalles sobre mi en mi portfolio : [![Web](https://www.cmfg.dev)
+Mas detalles sobre mi en mi portfolio : ![Web](https://www.cmfg.dev)
 
 
 <!--
