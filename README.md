@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Estamos haciendo trasteo a tope, asi que esperate a que este listo jeje:
-## Skills:
-[![Web]](https://cmfg.dev)
+<iframe>https://cmfg.dev</iframe>
